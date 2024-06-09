@@ -1,4 +1,4 @@
-# StreamSpot_Movies_TVShows_MERN_Sever
+# StreamSpot_Movies_TVShows_MERN_Server
 
 StreamSpot is a dynamic web application designed for discovering and enjoying movies and TV shows. Built with a modern tech stack, including React, Node.js, Express, MongoDB, and Firebase Authentication, it offers a rich, responsive user experience and powerful functionality. StreamSpot integrates with the TMDB API to fetch a vast array of multimedia content, allowing users to watch trailers, like their favorite shows, and manage their profiles based on their user status.
 
